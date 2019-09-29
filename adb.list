@@ -20,3 +20,4 @@ classmarker.com###print-content > div.result-overlay-content:nth-child(6) > p.gr
 classmarker.com###footerprint
 classmarker.com###print-content > div.result-overlay-content:nth-child(6) > h5.red.headlinetop.fb_header:nth-child(8)
 classmarker.com##.qboxcatsonly
+classmarker.com###header > div.col-full:first-child > div.login-error:nth-child(2) > a:last-child
