@@ -19,3 +19,4 @@ classmarker.com###print-content > div.print-classmarker-header:nth-child(2) > h4
 classmarker.com###print-content > div.result-overlay-content:nth-child(6) > p.gray.bbcode.v3QuizHolder.editor:nth-child(9)
 classmarker.com###footerprint
 classmarker.com###print-content > div.result-overlay-content:nth-child(6) > h5.red.headlinetop.fb_header:nth-child(8)
+classmarker.com##.qboxcatsonly
