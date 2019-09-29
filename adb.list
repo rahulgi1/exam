@@ -1,21 +1,20 @@
-classmarker.com###featured > div.col-full > div.featured-content
-classmarker.com###features
-classmarker.com###footer
+classmarker.com###featured > div.col-full
+classmarker.com###features > div.col-full > div.features-right:last-child
 classmarker.com###main > div.col-full > div.col-476:nth-child(2)
-classmarker.com###main > div.col-full > div.col-446:first-child
-classmarker.com###client-list
-classmarker.com###main > div.col-full > div.join-box:last-child > div.join-box-text:last-child
-classmarker.com###menu
 classmarker.com###main > div.col-full > div.join-box:last-child
+classmarker.com###main > div.col-full > div.col-446:first-child
+classmarker.com###features > div.col-full > div.features-left:first-child
+classmarker.com###client-list > div.col-full
+classmarker.com###footer > div.col-full
+classmarker.com###menu > li:nth-child(3)
+classmarker.com###footer
 https://www.classmarker.com/img3/retina/quiz-maker1x.jpg
-classmarker.com###login-form > form > div.login-form-buttons:last-child > a:last-child
-classmarker.com###login-form > form > div.login-form-buttons:last-child > a:first-child
-classmarker.com###home_keep_me
-classmarker.com###featured
+classmarker.com###menu > li:last-child
+classmarker.com###menu > li:nth-child(4)
+classmarker.com###menu > li:nth-child(2)
+classmarker.com###login-form > form > span.keep_me_logged_in:nth-child(5)
+classmarker.com###login-form > form > div.login-form-buttons:last-child
 https://www.classmarker.com/img3/retina/cm-loggedin-logo1x.jpg
-classmarker.com###header > div.col-full:first-child > div.login-error:nth-child(2) > a:last-child
-classmarker.com###login-form > form > span.keep_me_logged_in:nth-child(5) > label:last-child
-classmarker.com###showRefreshInstructions > div.alert-box.error.editor > a.removeOnBeforeUnload:first-child
 classmarker.com###print-content > div.print-classmarker-header:nth-child(2) > h4
 classmarker.com###print-content > div.result-overlay-content:nth-child(6) > p.gray.bbcode.v3QuizHolder.editor:nth-child(9)
 classmarker.com###footerprint
