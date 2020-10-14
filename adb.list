@@ -26,3 +26,6 @@ https://www.classmarker.com/img3/retina/cm-loggedin-logo2x.jpg
 https://www.classmarker.com/img3/retina/quiz-maker3x.jpg
 https://www.classmarker.com/img3/retina/cm-loggedin-logo3x.jpg
 classmarker.com###header > div.col-full:first-child > div.h1:first-child > a > img:first-child
+firefox.settings.services.mozilla.com^$
+incoming.telemetry.mozilla.org^$
+telemetry.mozilla.org^$
