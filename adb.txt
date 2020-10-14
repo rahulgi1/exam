@@ -29,3 +29,4 @@ classmarker.com###header > div.col-full:first-child > div.h1:first-child > a > i
 firefox.settings.services.mozilla.com^$
 incoming.telemetry.mozilla.org^$
 telemetry.mozilla.org^$
+
